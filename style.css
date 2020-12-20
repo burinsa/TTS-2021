@@ -446,6 +446,7 @@ body {
     right: 13%;
     width: 80px;
     height: 360px;
+    z-index: 20;
 }
 
 .social-button-list {
