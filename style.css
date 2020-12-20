@@ -58,7 +58,7 @@ body {
     padding: 0;
     padding-bottom: 95px;
     margin-bottom: 118px;
-    background: url(../img/bg-header-2.png), linear-gradient(219.17deg, #C5E8F8 8.4%, #3E82EB 41.12%, #3E82EB 41.13%, #3E82EB 41.14%, #3E82EB 41.15%, #3E82EB 41.16%, #3C86EB 96.6%); 
+    background: url(img/bg-header-2.png), linear-gradient(219.17deg, #C5E8F8 8.4%, #3E82EB 41.12%, #3E82EB 41.13%, #3E82EB 41.14%, #3E82EB 41.15%, #3E82EB 41.16%, #3C86EB 96.6%); 
     background-repeat: no-repeat, no-repeat;
     background-position: 807px 158px, 0 0;
 }
@@ -132,7 +132,7 @@ body {
     height: 7px;
     top: -13px;
     left: 0;
-    background-image: url(../img/current-menu.png);
+    background-image: url(img/current-menu.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: cover;
@@ -250,7 +250,7 @@ body {
     left: 337px;
     width: 109px;
     height: 66px;
-    background-image: url(../img/bober-01\ 1.png);
+    background-image: url(img/bober-01\ 1.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -264,7 +264,7 @@ body {
     left: 358px;
     width: 121px;
     height: 29px;
-    background-image: url(../img/speak-bober-1.png);
+    background-image: url(img/speak-bober-1.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -274,7 +274,7 @@ body {
     width: 552px;
     padding-top: 4px;
     padding-bottom: 2px;
-    background-image: url(../img/meeting-bg1.png);
+    background-image: url(img/meeting-bg1.png);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: cover;
@@ -285,7 +285,7 @@ body {
     width: 608px;
     margin-top: -2px;
     padding-bottom: 8px;
-    background-image: url(../img/meeting-bg2.png);
+    background-image: url(img/meeting-bg2.png);
     background-repeat: no-repeat;
     background-position: top right;
     background-size: cover;
@@ -349,7 +349,7 @@ body {
     height: 29px;
     top: -28px;
     left: -33px;
-    background-image: url(../img/location.svg);
+    background-image: url(img/location.svg);
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -478,24 +478,24 @@ body {
 
 .vk {
     background-color: #47668D;
-    background-image: url(../img/vk.png);
+    background-image: url(img/vk.png);
     
 }
 
 .fb {
     background-color: #3B5999;
-    background-image: url(../img/fb.png);
+    background-image: url(img/fb.png);
 }
 
 .wp {
     background-color: #4CAF50;
-    background-image: url(../img/wp.png);
+    background-image: url(img/wp.png);
 }
 
 .tw {
     margin-bottom: 0;
     background-color: #61A8DE;
-    background-image: url(../img/telegram.png);
+    background-image: url(img/telegram.png);
 }
 
 .button-write {
@@ -521,7 +521,7 @@ body {
     height: 36px;
     top: 25px;
     left: 19px;
-    background-image: url(../img/write.png);
+    background-image: url(img/write.png);
     background-repeat: no-repeat; 
     transition: all 0.2s ease;   
 }
@@ -533,13 +533,13 @@ body {
     height: 4px;
     top: 37px;
     left: 32px;
-    background-image: url(../img/point.png);
+    background-image: url(img/point.png);
     background-repeat: no-repeat;
     z-index: 2;
 }
 
 .button-write:hover::before {
-    background-image: url(../img/point-hover.png);
+    background-image: url(img/point-hover.png);
 }
 
 .active::before {
@@ -554,7 +554,7 @@ body {
     top: 29px;
     left: 29px;
     background-color: #08B3F7;
-    background-image: url(../img/write-close.png);
+    background-image: url(img/write-close.png);
     background-repeat: no-repeat;
     transition: all 0.2s ease;
 }
@@ -579,7 +579,7 @@ body {
     height: 336px;
     top: -226px;
     left: 733px;
-    background-image: url(../img/bg-preview-1.svg);
+    background-image: url(img/bg-preview-1.svg);
     background-repeat: no-repeat;
 }
 
@@ -590,7 +590,7 @@ body {
     height: 145px;
     top: 1044px;
     left: -192px;
-    background-image: url(../img/bg-preview-3.svg);
+    background-image: url(img/bg-preview-3.svg);
     background-repeat: no-repeat;
 }
 
@@ -613,7 +613,7 @@ body {
     height: 15px;
     top: -18px;
     left: 0;
-    background-image: url(../img/Vector-heading.png);
+    background-image: url(img/Vector-heading.png);
     background-repeat: no-repeat;
 }
 
@@ -632,7 +632,7 @@ body {
     top: 641px;
     right: -140px;
     height: 206px;
-    background-image: url(../img/bg-preview-2.svg);
+    background-image: url(img/bg-preview-2.svg);
     background-repeat: no-repeat;
     z-index: -10;
 }
@@ -693,7 +693,7 @@ body {
     height: 9px;
     top: 6px;
     left: 110px;
-    background-image: url(../img/Arrow-1.svg);
+    background-image: url(img/Arrow-1.svg);
     background-repeat: no-repeat;
 }
 
@@ -765,7 +765,7 @@ body {
 }
 
 .preview__link:hover::after {
-    background-image: url(../img/Arrow-2.png);
+    background-image: url(img/Arrow-2.png);
     transform: translateX(5px);
     transition: all 0.2s ease;
 }
@@ -800,7 +800,7 @@ body {
     top: -15px;
     width: 91px;
     height: 15px;
-    background-image: url(../img/Vector-heading.png);
+    background-image: url(img/Vector-heading.png);
     background-repeat: no-repeat;
 }
 
@@ -904,7 +904,7 @@ body {
     left: 40px;
     width: 107px;
     height: 81px;
-    background-image: url(../img/bober-01\ 2.png);
+    background-image: url(img/bober-01\ 2.png);
     background-repeat: no-repeat;
     z-index: -1;
 }
@@ -916,7 +916,7 @@ body {
     left: 58px;
     width: 98px;
     height: 25px;
-    background-image: url(../img/speak-bober-2.png);
+    background-image: url(img/speak-bober-2.png);
     background-repeat: no-repeat;
 }
 
